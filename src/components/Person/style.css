@@ -1,0 +1,19 @@
+/* .person-box {
+    width: 20%;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 2%;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: row;
+    justify-content: space-around;
+}
+ @media (min-width: 500px) {
+     .Person {
+         width: 450px;
+     }
+ } */
